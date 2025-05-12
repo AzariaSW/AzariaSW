@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Azaria
+- 👀 I’m interested in 
+- 🌱 I’m currently learning web developmant
+- 💞️ I’m looking to collaborate on c++ project
+- 📫 How to reach me on my email "azariaandabenet@gmail.com"
