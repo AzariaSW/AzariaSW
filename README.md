@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Internship and Job portal in c++](https://github.com/AZEB21/Internship-job-portal)
+  - [Internship and Job portal in c++](https://github.com/AzariaSW/Internship-job-portal)
   - [Theater seat reservation in C++](https://github.com/AZEB21/Theater-Seat-Reservation)
   - [Exam taking site](https://github.com/bamlak4/ip-project)
 <h2> 🤳 Connect with me:</h2>
