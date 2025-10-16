@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
   - [Internship and Job portal in c++](https://github.com/AzariaSW/Internship-job-portal)
+  - [Supermarket inventory database](https://github.com/AzariaSW/Supermarket-inventory-system)
   - [Exam taking site](https://github.com/bamlak4/ip-project)
 <h2> 🤳 Connect with me:</h2>
 
