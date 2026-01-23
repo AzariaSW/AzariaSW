@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Quiz Game](https://github.com/AzariaSW/Quiz)
+  - [Quiz Game](https://github.com/AzariaSW/Quiz-Game)
 
   - [Internship and Job portal in c++](https://github.com/AzariaSW/Internship-job-portal)
   
