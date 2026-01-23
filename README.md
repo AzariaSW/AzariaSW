@@ -4,9 +4,11 @@
 
   - [Quiz Game](https://github.com/AzariaSW/Quiz-Game)
 
+  - [Exam taking site](https://github.com/bamlak4/ip-project)
+
   - [Internship and Job portal in c++](https://github.com/AzariaSW/Internship-job-portal)
   
-  - [Exam taking site](https://github.com/bamlak4/ip-project)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
